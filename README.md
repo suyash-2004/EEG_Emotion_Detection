@@ -1,4 +1,4 @@
-# EEG-Based Emotion Recognition and Chatbot System
+# NeuroSri : EEG-POWERED AI ROBOT FOR MENTAL HEALTH DETECTION AND THERAPY
 
 This project implements a real-time EEG-based emotion recognition system integrated with a therapeutic chatbot. The system processes EEG signals using LSL (Lab Streaming Layer), performs frequency analysis, classifies emotions using deep learning, and provides therapeutic responses through a chatbot interface.
 
